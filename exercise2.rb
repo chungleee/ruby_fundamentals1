@@ -6,5 +6,9 @@ puts 55 * 0.15
 puts "i want to eat #{5} bagels"
 
 
-# Try outputting the result of 45628 multiplied by 7839 in a sentence by using string interpolation.
+# 3.Try outputting the result of 45628 multiplied by 7839 in a sentence by using string interpolation.
 puts "#{45628 * 7839}"
+
+
+# 4.What's the value of the expression (10 < 20 && 30 < 20) || !(10 == 11)? Try figuring it out on your own before typing it in.
+true
